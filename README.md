@@ -33,12 +33,12 @@ Default target: youtube.com
 To change the target, edit the target_domain variable in the script.
 It will attempt to retrieve the following record types:
 
-A<br>
-AAAA
-CNAME
-MX
-TXT
-SOA
+A,
+AAAA,
+CNAME,
+MX,
+TXT,
+SOA,
 
 
 2.
